@@ -1,0 +1,2 @@
+# ai
+Artificial intelligence course
